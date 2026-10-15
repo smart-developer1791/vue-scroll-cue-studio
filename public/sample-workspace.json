@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "name": "A small guide to a shared garden",
+  "introduction": "Five little chapters for making a place where people and plants can grow together.",
+  "density": "comfortable",
+  "sections": [
+    {
+      "id": "begin",
+      "title": "Begin with a conversation",
+      "body": "Ask what people would like to grow, and what they already know. A shared garden begins with listening.\n\nMake space for someone who has never held a trowel. One friendly invitation can change how a place feels.\n\nWrite down a small first step that everyone can recognise."
+    },
+    {
+      "id": "find",
+      "title": "Find a patch of possibility",
+      "body": "Notice the light, the path to water, and the places where people already gather. Walk around at a few different times of day.\n\nA modest space that is easy to reach can be more useful than a beautiful place that is hard to visit.\n\nAgree who can help care for the space before planting begins."
+    },
+    {
+      "id": "plant",
+      "title": "Plant something forgiving",
+      "body": "Choose a few plants suited to the place and the season. Leave room between them, and room for questions.\n\nKeep the first planting small enough to care for together. Mark what went where; a pencil and a simple label are enough.\n\nGive someone new the chance to plant the first seed."
+    },
+    {
+      "id": "tend",
+      "title": "Make care a shared rhythm",
+      "body": "A clear watering plan is kinder than a hopeful guess. Decide how people will notice when a task needs doing.\n\nShare what worked as well as what did not. Leave a short note for the next person, and make it easy to ask for help.\n\nA garden changes. Let the plan change with it."
+    },
+    {
+      "id": "share",
+      "title": "Share what grows",
+      "body": "Celebrate the small things: a new leaf, a useful conversation, a person returning for a second visit.\n\nShare the harvest with people who helped and people who are curious. Keep a little space for a new idea next season.\n\nThe garden is a place to grow things, and a place to belong."
+    }
+  ],
+  "provenance": {
+    "project": "vue-scroll-cue-studio",
+    "author": "CodeSculptor",
+    "marker": "SC-561A0596"
+  }
+}
